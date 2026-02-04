@@ -19,15 +19,5 @@ http://41.205.93.154/ABC/index.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="PBSKids.us@SD",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 tvg-id="PBSKidsHawaii.us@SD",PBS Kids Hawaii
-https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
 #EXTINF:-1 tvg-id="LegoChannel.us@SD",Lego Channel (1080p)
 https://jmp2.uk/stvp-GBBC4300005AL
-#EXTINF:-1 tvg-id="CFTMDT.ca@SD",TVA
-https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL
-http://fl3.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" tvg-name="DISNEY JR",DISNEY JR
-http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" tvg-name="DISNEY XD",DISNEY XD
-http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
