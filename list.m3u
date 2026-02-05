@@ -9,8 +9,12 @@ https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-id="IciRDI.ca@SD",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-id="",Noovo Comédies
+#EXTINF:-1 tvg-id="",Noovo Cinéma (1080p)
+https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
+#EXTINF:-1 tvg-id="",Noovo Comédies (1080p)
 https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
+#EXTINF:-1 tvg-id="",Noovo Téléréalités (1080p)
+https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
 #EXTINF:-1 tvg-id="470691",Disney Channel (720p)
 https://fl31.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 tvg-id="ABC.us@East",ABC
