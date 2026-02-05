@@ -21,3 +21,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="LegoChannel.us@SD",Lego Channel (1080p)
 https://jmp2.uk/stvp-GBBC4300005AL
+#EXTINF:0 tvg-name="noovo" tvg-language="French" tvg-country="CA" tvg-id="noovo" tvg-logo="https://i.imgur.com/K1AUUrO.png" group-title="Entertainment",Noovo (V-Télé)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+#EXTINF:0 tvg-name="Télé-Quebec" tvg-language="French" tvg-country="CA" tvg-id="telequebec" tvg-logo="https://i.imgur.com/uIZSky1.png" group-title="Entertainment",Télé-Quebec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
