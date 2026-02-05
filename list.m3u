@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CBVTDT.ca@SD",Ici Radio-Canada Québec (CBVT-DT)
+#EXTINF:-1 tvg-id="CBVTDT.ca@SD",Ici Radio-Canada Québec (CBVT-DT) tvg-logo="https://images.radio-canada.ca/v1/infolettres/logo/perso/quebec-info-infolettre.jpg"
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
 #EXTINF:-1 tvg-id="CBMTDT.ca@SD",CBC Montréal (CBMT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
@@ -7,7 +7,7 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="470878",LCN tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/TVA_Nouvelles_%28logo%2C_2020%29.svg/langfr-250px-TVA_Nouvelles_%28logo%2C_2020%29.svg.png" group-title="Entertainment"
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
-#EXTINF:-1 tvg-id="IciRDI.ca@SD",ICI RDI
+#EXTINF:-1 tvg-id="IciRDI.ca@SD",ICI RDI tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHykO-9jqx6l5tsJ4JOyiUY8zwMQ4IiU14Xw&s"
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="",Noovo Cinéma (1080p)
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
