@@ -29,3 +29,5 @@ https://jmp2.uk/stvp-GBBC4300005AL
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:0 tvg-name="Télé-Quebec" tvg-language="French" tvg-country="CA" tvg-id="telequebec" tvg-logo="https://i.imgur.com/uIZSky1.png" group-title="Entertainment",Télé-Quebec
 https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCLX.us@SD",NBCLX
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
