@@ -23,5 +23,5 @@ http://41.205.93.154/ABC/index.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="PBSKids.us@SD",PBS Kids tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/250px-PBS_Kids_logo_%282022%29.svg.png"
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 tvg-id="LegoChannel.us@SD",Lego Channel (1080p)
+#EXTINF:-1 tvg-id="LegoChannel.us@SD",Lego Channel (1080p) tvg-logo="https://www.justalittlecreativity.com/wp-content/uploads/2013/01/legoLogo.jpg"
 https://jmp2.uk/stvp-GBBC4300005AL
